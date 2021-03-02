@@ -2,7 +2,9 @@
 <p>Module for the game LifePlay</p>
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
-<h3>rk_VapeShop  version(1.0):</h3>
+<h3>rk_VapeShop :</h3>
+<p>Version: 1.0.1</p>
+<br>
 <p>Add options to buy/smoke vape juices at different places around the city.</p>
 <p>5 flavours to choose.</p>
 <p>Contain 3 scenes.</p>
