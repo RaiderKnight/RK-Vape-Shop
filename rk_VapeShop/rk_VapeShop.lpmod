@@ -3,5 +3,5 @@ MODULE_NAME: Vape Shop Module
 MODULE_AUTHOR: Raddeck
 MODULE_LINK: https://github.com/RaiderKnight/RK-Vape-Shop
 MODULE_DESCRIPTION: Add options to buy/smoke vape juices !
-MODULE_REQUIREMENTS:
-MODULE_VERSION: 1.0.1
+MODULE_REQUIREMENTS: rk_Personal_Inventories
+MODULE_VERSION: 1.0.2
